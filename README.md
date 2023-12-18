@@ -15,9 +15,9 @@ This project dives deep into setting up Active Directory in a "real-world" scena
 
 <h2>Environments Used </h2>
 
-- <b>Oracle Virtualbox</b> (21H2)
-- <b>Windows 10 ISO</b> (21H2)
-- <b>Windows Server 2019 ISO</b> (21H2)
+- <b>Oracle Virtualbox</b> 
+- <b>Windows 10 ISO</b> 
+- <b>Windows Server 2019 ISO</b> 
 
 
 <!--
